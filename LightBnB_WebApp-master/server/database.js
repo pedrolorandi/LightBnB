@@ -86,7 +86,7 @@ const getAllReservations = function(guest_id, limit = 10) {
     LEFT JOIN property_reviews ON properties.id = property_reviews.property_id
     LEFT JOIN users ON users.id = reservations.guest_id
     WHERE users.id = $1
-    GROUP BY reservations.id, properties.id, properties.cost_per_night
+    GROUP BY reservations.id, properties.id
     ORDER BY reservations.start_date ASC
     LIMIT $2
     `, [guest_id, limit])
