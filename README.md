@@ -73,6 +73,10 @@ Users can view property information, book reservations, view their reservations,
   * `json` is a directory that contains a bunch of dummy data in `.json` files.
   * `database.js` is responsible for all queries to the database. It doesn't currently connect to any database, all it does is return data from `.json` files.# LightBnB
 
+## ERD
+
+!["ERD"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/erd.png?raw=true)
+
 ## Getting Started
 
 1. Clone this repository onto your local device.
