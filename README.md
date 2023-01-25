@@ -10,8 +10,26 @@ Users can view property information, book reservations, view their reservations,
 
 ## Screenshots
 
-!["Main Page"](https://github.com/pedrolorandi/LightBnB/blob/master/docs/Tweeter%20-%20Main%20Page.jpg?raw=true)
+!["Main Page"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/main.jpg?raw=true)
 **Main Page**
+
+!["Log In"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/login.jpg?raw=true)
+**Log In Page**
+
+!["Sign Up"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/signup.jpg?raw=true)
+**Sign Up Page**
+
+!["Search"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/search.jpg?raw=true)
+**Search Page**
+
+!["Search Results"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/search-results.jpg?raw=true)
+**Search Results Page**
+
+!["My Reservations"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/my-reservations.jpg?raw=true)
+**My Reservations Page**
+
+!["Create Listing"](https://github.com/pedrolorandi/LightBnB/blob/main/LightBnB_WebApp-master/docs/create-listing.jpg?raw=true)
+**Create Listing Page**
 
 ## Project Structure
 
